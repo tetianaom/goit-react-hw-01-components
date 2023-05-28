@@ -1,0 +1,24 @@
+.item {
+  display: flex;
+  align-items: center;
+  padding: 10px 30px 10px 10px;
+  column-gap: 10px;
+  border-radius: 8px;
+  box-shadow: 0 9px 47px 11px rgba(46, 47, 66, 0.08);
+  margin-bottom: 10px;
+}
+
+.status {
+  display: block;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+}
+
+.online {
+  background-color: #ff0000;
+}
+
+.offline {
+  background-color: #008000;
+}

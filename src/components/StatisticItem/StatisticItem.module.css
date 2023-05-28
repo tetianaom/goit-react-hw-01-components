@@ -1,0 +1,8 @@
+.item {
+  display: flex;
+  width: 50px;
+  flex-wrap: wrap;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+}
